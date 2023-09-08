@@ -1,0 +1,1 @@
+const API_URL = "https://rickandmortyapi.com/api/character/?name=rick&status=alive";
